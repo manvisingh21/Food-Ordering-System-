@@ -1,2 +1,1 @@
-# Food-Ordering-System-
-A mini Food Ordering System using C langauge
+This C program implements a simple Food Ordering System with user signup and login functionalities. Users can sign up with details like name, age, email, and password, and subsequently log in to explore food options. The system features a menu-driven approach allowing users to search for food either by hotels or specific items. Users can select items, add them to the cart, and place orders. The program dynamically initializes hotels and their food details. It provides a basic yet functional model for a food ordering platform with user authentication and order management.
